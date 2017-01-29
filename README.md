@@ -1,2 +1,10 @@
 # PROP
-PROP - Projecte de Programació, FIB - Facultad de Informática de Barcelona 
+Álvaro Martínez Arroyo
+
+Daniel García Romero
+
+Erick Aramayo Monrroy
+
+Robert Almar Graupera
+
+Nota: 9
